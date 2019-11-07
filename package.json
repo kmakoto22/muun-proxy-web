@@ -1,6 +1,7 @@
 {
   "name": "muun",
   "version": "0.0.1",
+  "main": "index.js",
   "dependencies": {
     "@abai/proxy": "^5.0.0",
     "grumpy": "^0.1.3"
